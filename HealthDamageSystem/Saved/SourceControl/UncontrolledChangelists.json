@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/9vTrX4y.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/TdcYXnp.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/WI_Health.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/BPI_Health.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/BP_Trap.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IB/Y1V963XK234TPYLESELIJI.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
