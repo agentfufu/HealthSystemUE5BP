@@ -13,7 +13,16 @@
 				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/BP_Trap.uasset",
 				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IB/Y1V963XK234TPYLESELIJI.uasset",
 				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/BP_Heal.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GL/M2GNLCTZDMZ8QO872GBNH4.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/BP_Respawn.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/Material.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/Material_001.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/Material_002.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/Material_003.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/old_medkits.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/HealthDamageSystem/Content/Health/BP_GameInstance.uasset"
 			]
 		}
 	]
